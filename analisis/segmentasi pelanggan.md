@@ -9,6 +9,7 @@
 2. Karena bulan oktober depan akan ada campaign, kami ingin menyorot warna produk tertentu yang menjadi kegemaran pelanggan. <br>
   -> Warna apa di tiap tahun yang menjadi warna paling populer dibeli oleh pelanggan?
 
+    ![distribusi warna by harga produk](images/image2.png)
     
   **Wawasan** : Selama periode 2016-2019 warna merah menjadi warna yang sering dibeli oleh pelanggan, dan warna hitam menjadi warna yang konsisten dibeli oleh pelanggan selama periode 2016 hingga 2021.
   **Pengetahuan yang dapat ditindak lanjuti** :
