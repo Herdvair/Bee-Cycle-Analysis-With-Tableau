@@ -1,4 +1,4 @@
-1. Seorang data analyst ingin mengetahui target pelanggan berdasarkan dataset Bee Cycle. Oleh karena itu dibuat visualisasi untuk melihat distribusi pelanggan berdasarkan gender dan umur.
+1. Seorang data analyst ingin mengetahui target pelanggan berdasarkan dataset Bee Cycle. Oleh karena itu dibuat visualisasi untuk melihat distribusi pelanggan berdasarkan gender dan umur. <br>
   -> Kelompok grup umur apa dan gender apa yang memiliki transaksi tertinggi?
 
     ![umur & gender by transaksi](images/image.png)
