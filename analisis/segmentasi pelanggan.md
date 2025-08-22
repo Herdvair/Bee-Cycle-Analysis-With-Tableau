@@ -1,7 +1,7 @@
 1. Seorang data analyst ingin mengetahui target pelanggan berdasarkan dataset Bee Cycle. Oleh karena itu dibuat visualisasi untuk melihat distribusi pelanggan berdasarkan gender dan umur.
   -> Kelompok grup umur apa dan gender apa yang memiliki transaksi tertinggi?
 
-    ![Tampilkan Aplikasi](images/image.png)
+    ![umur & gender by transaksi](images/image.png)
 
   **Wawasan**: Customer yang gender Female dengan kategori umur sekitar 41-60 sebagai pelanggan yang memiliki total transaksi tertinggi.
   **Pengetahuan yang dapat ditindak lanjuti**: 
