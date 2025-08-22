@@ -14,9 +14,10 @@
   **Wawasan** : Selama periode 2016-2019 warna merah menjadi warna yang sering dibeli oleh pelanggan, dan warna hitam menjadi warna yang konsisten dibeli oleh pelanggan selama periode 2016 hingga 2021.
   **Pengetahuan yang dapat ditindak lanjuti** :
 
-3. Karena kampanye untuk bulan Oktober hanya terbatas pada tiap toko cabang, kami hanya ingin mengambil produk populer dari tiap toko cabang.
+3. Karena kampanye untuk bulan Oktober hanya terbatas pada tiap toko cabang, kami hanya ingin mengambil produk populer dari tiap toko cabang. <br>
   -> Top 10 produk apa saja yang paling populer di tiap teritory/origin country?
 
+    ![produk populer by negara toko cabang](images/image3.png)
 
   **Wawasan** : Water Bottle 30 oz menjadi produk terlaris di Australia dengan total penjualan 124 Unit.
   **Pengathuan yang dapat ditindak lanjuti** : 
