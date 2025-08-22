@@ -5,7 +5,7 @@
 
   **Wawasan**: Customer yang gender Female dengan kategori umur sekitar 41-60 sebagai pelanggan yang memiliki total transaksi tertinggi.
   
-  **Pengetahuan yang dapat ditindak lanjuti**: 
+  **Pengetahuan yang dapat ditindak lanjuti**: Fokus pada strategi pemasaran pada pelanggan wanita usia 41-60 tahun dengan personalisasi promosi, program loyalitas, atau produk bundling yang relevan dengan kebutuhan segmen ini.
 
 2. Karena bulan oktober depan akan ada campaign, kami ingin menyorot warna produk tertentu yang menjadi kegemaran pelanggan. <br>
   -> Warna apa di tiap tahun yang menjadi warna paling populer dibeli oleh pelanggan?
@@ -14,7 +14,7 @@
     
   **Wawasan** : Selama periode 2016-2019 warna merah menjadi warna yang sering dibeli oleh pelanggan, dan warna hitam menjadi warna yang konsisten dibeli oleh pelanggan selama periode 2016 hingga 2021.
   
-  **Pengetahuan yang dapat ditindak lanjuti** :
+  **Pengetahuan yang dapat ditindak lanjuti** : Gunakan warna merah dan hitam sebagai warna utama dalam kampanye promosi musiman, karena kedua warna tersebut terbukti paling konsisten dipilih oleh pelanggan.
 
 3. Karena kampanye untuk bulan Oktober hanya terbatas pada tiap toko cabang, kami hanya ingin mengambil produk populer dari tiap toko cabang. <br>
   -> Top 10 produk apa saja yang paling populer di tiap teritory/origin country?
@@ -23,6 +23,6 @@
 
   **Wawasan** : Water Bottle 30 oz menjadi produk terlaris di Australia dengan total penjualan 124 Unit. 
   
-  **Pengetahuan yang dapat ditindak lanjuti** : 
+  **Pengetahuan yang dapat ditindak lanjuti** : Tingkatkan ketersediaan stok dan promosi pada produk **Water Bottle 30 oz** di Australia serta perluas ekspansi ke wilayah lain, mengingat produk ini terbukti sebagai *best seller* dengan potensi untuk menjadi produk ikon global.
     
   
