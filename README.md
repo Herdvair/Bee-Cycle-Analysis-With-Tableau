@@ -1,5 +1,7 @@
 # 📌 Project Overview : Customer Segmentation & Shipping Cost Analysis
 
+[Tableau Publik](https://public.tableau.com/app/profile/tri.indah/viz/Assignment_EC2/ShippingCostDashboard?publish=yes)
+
 ## Latar Belakang : 
 Identifikasi dalam memahami karakteristik pelanggan serta biaya distribusi untuk meningkatkan strategi bisnis. Analisis ini dilakukan untuk melihat segmentasi pelanggan berdasarkan demografi, preferensi produk, serta mengevaluasi biaya pemgiriman lintas wilayah. Hasil analisis ini diharapkan dapat membantu dalam menyusun strategi pemasaran, optimalisasi distribusi, dan efisiensi operasional.
 
